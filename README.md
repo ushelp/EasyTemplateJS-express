@@ -1,8 +1,8 @@
 # EasyTemplateJS-express
 
-**EasyTemplateJS-koa 是基于 [EasyTemplateJS](https://github.com/ushelp/EasyTemplateJS "EasyTemplateJS") 的 [Express](http://expressjs.com/ "Express") 框架的模板引擎中间件。**
+**EasyTemplateJS-express 是基于 [EasyTemplateJS](https://github.com/ushelp/EasyTemplateJS "EasyTemplateJS") 的 [Express](http://expressjs.com/ "Express") 框架的模板引擎中间件。**
 
-**EasyTemplateJS-koa is a template engine middleware based on EasyTemplateJS](https://github.com/ushelp/EasyTemplateJS "EasyTemplateJS")  for the [Express](http://expressjs.com/ "Express") framework.**
+**EasyTemplateJS-express is a template engine middleware based on [EasyTemplateJS](https://github.com/ushelp/EasyTemplateJS "EasyTemplateJS")  for the [Express](http://expressjs.com/ "Express") framework.**
 
 
 
